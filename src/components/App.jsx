@@ -68,4 +68,4 @@ import css from './App.module.css';
   );
 };
 }
-export default App
+export default App;
