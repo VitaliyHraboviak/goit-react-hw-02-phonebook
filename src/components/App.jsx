@@ -52,7 +52,7 @@ import css from './App.module.css';
    }
    render() {
      
-     const { contacts, filter } = this.state;
+     const { filter } = this.state;
      const filterContacts = this.getFilterContacts();  
      
   return (
