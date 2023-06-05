@@ -63,4 +63,5 @@ class Container extends Component {
     )
 }
 }
-export default Container
+
+export default Container;
